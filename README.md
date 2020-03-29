@@ -18,7 +18,7 @@ Where does the logging information go? Well, logging information goes to what is
 ## Integrate log4net from scratch
 
 1. Add log4net Package
- Specify appender web.config file
+2. Specify appender web.config file
 
 ```xml
 <log4net>
@@ -40,12 +40,12 @@ Where does the logging information go? Well, logging information goes to what is
 
 ```
 
-2.Add below statement to AesemblyInfo.cs
+3.Add below statement to AesemblyInfo.cs
 ```csharp
 [assembly: log4net.Config.XmlConfigurator(Watch = true)]
 ```
 
-3.Log something!
+4.Log something!
 ```csharp
 class Program
     {
