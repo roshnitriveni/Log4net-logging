@@ -1,0 +1,21 @@
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\bin\Debug\log4netSample.exe.config
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\bin\Debug\log4netSample.exe
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\bin\Debug\log4netSample.pdb
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\bin\Debug\log4net.dll
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\bin\Debug\log4net.xml
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\obj\Debug\log4netSample.exe
+C:\Users\bhara\Documents\Visual Studio 2017\log4netSample\log4netSample\obj\Debug\log4netSample.pdb
+E:\log4netSample\log4netSample\bin\Debug\log4netSample.exe.config
+E:\log4netSample\log4netSample\obj\Debug\log4netSample.exe
+E:\log4netSample\log4netSample\obj\Debug\log4netSample.pdb
+E:\log4netSample\log4netSample\bin\Debug\log4netSample.exe
+E:\log4netSample\log4netSample\bin\Debug\log4netSample.pdb
+E:\log4netSample\log4netSample\bin\Debug\log4net.dll
+E:\log4netSample\log4netSample\bin\Debug\log4net.xml
+E:\log4netSample\log4netSample\obj\Debug\log4netSample.csprojResolveAssemblyReference.cache
+E:\log4netSample\log4netSample\bin\Debug\Log4Mongo.dll
+E:\log4netSample\log4netSample\bin\Debug\MongoDB.Bson.dll
+E:\log4netSample\log4netSample\bin\Debug\MongoDB.Driver.Core.dll
+E:\log4netSample\log4netSample\bin\Debug\MongoDB.Driver.dll
+E:\log4netSample\log4netSample\bin\Debug\MongoDB.Bson.xml
+E:\log4netSample\log4netSample\bin\Debug\MongoDB.Driver.xml

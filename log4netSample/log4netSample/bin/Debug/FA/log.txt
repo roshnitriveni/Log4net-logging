@@ -1,0 +1,182 @@
+[Header]\r\n2020-03-29 16:34:30,896 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 16:34:30,919 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 16:34:32,149 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 16:34:32,151 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 16:34:33,560 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 27
+[Header]\r\n2020-03-29 16:37:18,632 [9] INFO  log4netSample.Program This is an information message
+2020-03-29 16:37:18,654 [9] WARN  log4netSample.Program This is a warning message
+2020-03-29 16:37:19,560 [9] ERROR log4netSample.Program This is an error message
+2020-03-29 16:37:19,560 [9] FATAL log4netSample.Program This is a fatal message
+2020-03-29 16:37:19,580 [9] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 27
+[Header]\r\n2020-03-29 16:48:54,337 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 16:48:54,365 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 16:48:54,508 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 16:48:54,508 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 16:48:54,530 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 30
+[Header]\r\n2020-03-29 16:49:39,472 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 16:49:39,498 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 16:49:41,340 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 16:49:41,354 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 16:49:41,440 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 30
+[Header]\r\n2020-03-29 16:52:06,712 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 16:52:06,737 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 16:52:06,738 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 16:52:06,738 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 16:52:06,754 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 30
+[Header]\r\n2020-03-29 17:41:40,308 [9] INFO  log4netSample.Program This is an information message
+2020-03-29 17:41:40,409 [9] WARN  log4netSample.Program This is a warning message
+2020-03-29 17:41:40,409 [9] ERROR log4netSample.Program This is an error message
+2020-03-29 17:41:40,409 [9] FATAL log4netSample.Program This is a fatal message
+2020-03-29 17:41:41,524 [9] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 17:48:43,103 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 17:48:43,127 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 17:48:43,127 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 17:48:43,127 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 17:48:43,162 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:02:52,765 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:02:52,792 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:02:52,793 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:02:52,793 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:02:52,808 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:05:23,002 [11] INFO  log4netSample.Program This is an information message
+2020-03-29 18:05:23,039 [11] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:05:23,040 [11] ERROR log4netSample.Program This is an error message
+2020-03-29 18:05:23,045 [11] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:05:23,102 [11] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:07:55,931 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:07:55,953 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:07:55,954 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:07:55,954 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:07:56,578 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:09:08,191 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:09:09,199 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:09:09,273 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:09:09,283 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:09:09,306 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:19:04,076 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:19:04,972 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:19:04,985 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:19:04,999 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:19:05,086 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:19:43,883 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:19:44,252 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:19:44,280 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:19:44,308 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:19:44,399 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:21:01,723 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:21:02,064 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:21:02,082 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:21:02,096 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:21:02,124 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:24:14,829 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:24:15,112 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:24:15,128 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:24:15,141 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:24:15,165 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:25:47,084 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:25:47,322 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:25:47,339 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:25:47,353 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:25:47,412 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:26:17,035 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:26:17,360 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:26:17,377 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:26:17,403 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:26:17,440 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:27:16,241 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:27:16,841 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:27:16,861 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:27:16,893 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:27:16,960 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:30:20,103 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:30:20,472 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:30:20,485 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:30:20,494 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:30:20,516 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:31:52,456 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:31:52,760 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:31:52,770 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:31:52,782 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:31:52,806 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 32
+[Header]\r\n2020-03-29 18:35:14,178 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:35:14,488 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:35:14,503 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:35:14,525 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:35:14,554 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 33
+[Header]\r\n2020-03-29 18:44:02,614 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:44:02,954 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:44:02,969 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:44:03,001 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:44:03,032 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 33
+[Header]\r\n2020-03-29 18:44:55,399 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:44:55,667 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:44:55,677 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:44:55,688 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:44:55,719 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 33
+[Header]\r\n2020-03-29 18:45:34,428 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:45:34,909 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:45:34,941 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:45:34,956 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:45:34,981 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 33
+[Header]\r\n2020-03-29 18:48:11,186 [9] INFO  log4netSample.Program This is an information message
+2020-03-29 18:48:11,703 [9] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:48:11,764 [9] ERROR log4netSample.Program This is an error message
+2020-03-29 18:48:11,810 [9] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:48:11,837 [9] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 33
+[Header]\r\n2020-03-29 18:48:36,577 [10] INFO  log4netSample.Program This is an information message
+2020-03-29 18:48:36,898 [10] WARN  log4netSample.Program This is a warning message
+2020-03-29 18:48:36,911 [10] ERROR log4netSample.Program This is an error message
+2020-03-29 18:48:36,921 [10] FATAL log4netSample.Program This is a fatal message
+2020-03-29 18:48:36,960 [10] ERROR log4netSample.Program An error happened
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at log4netSample.Program.Main(String[] args) in E:\log4netSample\log4netSample\Program.cs:line 33
